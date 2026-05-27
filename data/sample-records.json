@@ -1,0 +1,37 @@
+[
+  {
+    "id": "REC-001",
+    "label": "Record Alpha",
+    "category": "intake",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": "REC-002",
+    "label": "Record Beacon",
+    "category": "review",
+    "status": "cleared",
+    "priority": "low"
+  },
+  {
+    "id": "REC-003",
+    "label": "Record Cipher",
+    "category": "export",
+    "status": "flagged",
+    "priority": "high"
+  },
+  {
+    "id": "REC-004",
+    "label": "Record Delta",
+    "category": "archive",
+    "status": "archived",
+    "priority": "low"
+  },
+  {
+    "id": "REC-005",
+    "label": "Record Echo",
+    "category": "review",
+    "status": "pending",
+    "priority": "high"
+  }
+]
