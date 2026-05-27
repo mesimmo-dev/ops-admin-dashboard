@@ -70,7 +70,34 @@ ops-admin-dashboard/
 │   └── api/
 │       └── records/
 │           └── route.ts
+├── data/
+│   └── sample-records.json
 ├── lib/
 │   └── sampleRecords.ts
 └── types/
     └── record.ts
+```
+
+## Development Path
+
+```text
+v0: Local synthetic dashboard
+v1: API route returns records
+v2: Supabase table schema
+v3: Supabase client connection
+v4: Basic filtering and search
+v5: Vercel deployment
+```
+
+## Privacy Note
+
+All sample records are synthetic and intentionally non-identifying.
+
+This repository is for dashboard structure, workflow practice, and full-stack implementation patterns only.
+
+## Project Type
+
+Carpool-lane prototype.
+
+Small by design.  
+Useful by repetition.
